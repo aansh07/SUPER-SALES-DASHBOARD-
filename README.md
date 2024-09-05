@@ -2,6 +2,8 @@
 
 I’ve created an interactive Power BI dashboard using a comprehensive dataset that includes vital information such as:
 
+![POWER BI 2ND ](https://github.com/user-attachments/assets/55043e27-ee1d-43df-b7a6-220b4b1dba8e)
+
 
 
 - 🆔 **Row ID**: Unique identifiers for each entry
