@@ -1,7 +1,7 @@
 🚀 **Excited to share my latest project!** 🎉
 
 I’ve created an interactive Power BI dashboard using a comprehensive dataset that includes vital information such as:
-![2 DASHBOARD](https://github.com/user-attachments/assets/9e4f4808-91ed-4026-aa10-af1dc6db3786)
+
 
 
 - 🆔 **Row ID**: Unique identifiers for each entry
